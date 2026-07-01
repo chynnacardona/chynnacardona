@@ -3,7 +3,7 @@
 ### open for opportunities
 
 BS Information Technology | New Era University | 2024-Present  
-*`Reasearch-based data analyst | Developer`*  
+*`Developer | Research Analyst`*  
 
 
 <table border="0">
