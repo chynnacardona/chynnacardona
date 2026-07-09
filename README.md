@@ -31,10 +31,3 @@ BS Information Technology | New Era University | 2024-Present
 | 🗄️ SQL and Relational Databases 101 (Cognitive Class) | [View Certificate](https://courses.cognitiveclass.ai/certificates/5e6a039873d34f95bacd5c471ba6af93) |
 | 🌐 NoSQL and DBaaS 101 (Cognitive Class) | [View Certificate](https://courses.cognitiveclass.ai/certificates/55b3b12dd52540aeb6ae926e61734e34) |
 
----
-
-`digital forensics engineer in progress`  
-  
-  what I use to study   
-  [![LeetCode](https://img.shields.io/badge/-LeetCode-000000?style=flat&logo=LeetCode&logoColor=FFA116)](https://leetcode.com/viio)
-  [![CyLab Academy](https://img.shields.io/badge/-CyLab%20Academy-101012?style=for-the-badge&logo=securityscorecard&logoColor=00E5FF)](https://learn.cylabacademy.org/learning-paths/16/116)
