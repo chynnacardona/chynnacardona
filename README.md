@@ -17,17 +17,3 @@ BS Information Technology | New Era University | 2024-Present
 </td>
 </tr>
 </table>
-
-
----
-
-### Certifications
-
-| Certification | Credential Link |
-| :--- | :---: |
-| ☁️ Oracle Cloud Infrastructure 2025 Certified Foundations Associate | [View Certificate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B4BDB75ED76CB870642B9A155C58C7CC54017C1313DBD4053F69C19200AB2F0C) |
-| 🤖 Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate | [View Certificate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9CCA682D7CEE75A1E7C05A70B4DEB8AA10B90E98206741EA97E9704B5F77C05F) |
-| 📊 Oracle Data Platform 2025 Certified Foundations Associate | [View Certificate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BCF0E22BAECA32AE2719B001E941AE4C39CF78FE94E05CDF39396001D0FE2246) |
-| 🗄️ SQL and Relational Databases 101 (Cognitive Class) | [View Certificate](https://courses.cognitiveclass.ai/certificates/5e6a039873d34f95bacd5c471ba6af93) |
-| 🌐 NoSQL and DBaaS 101 (Cognitive Class) | [View Certificate](https://courses.cognitiveclass.ai/certificates/55b3b12dd52540aeb6ae926e61734e34) |
-
