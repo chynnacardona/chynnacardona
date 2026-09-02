@@ -5,7 +5,6 @@
 BS Information Technology | New Era University | 2024-Present  
 *Developer, Researcher*  
 
-
 *`Java`* *`JavaScript`* *`Python`* *`C`* *`Spring Boot`* 
-</br> *`Full-stack Development`* *`Research Analytics`* 
-
+</br> *`Full-stack Development`* *`Research Analytics`* </br></br>
+[Connect with me](mailto:cardonachynnam@gmail.com)
