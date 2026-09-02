@@ -3,7 +3,7 @@
 ### open for opportunities
 
 BS Information Technology | New Era University | 2024-Present  
-*`Developer | Researcher | Engineer (in Progress)`*  
+*`Developer | Researcher`*  
 
 
 <table border="0">
